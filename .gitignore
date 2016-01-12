@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.pyc
+*.wp*
+*.sqlite3
+local_settings.py
