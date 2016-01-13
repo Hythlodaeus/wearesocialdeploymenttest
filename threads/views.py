@@ -7,6 +7,7 @@ from django.core.urlresolvers import reverse
 from django.template.context_processors import csrf
 from .forms import ThreadForm, PostForm
 
+
 def forum(request):
     return render(request, 'forum.html',{'subjects': Subject.objects.all()})
 

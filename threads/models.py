@@ -3,6 +3,7 @@ from tinymce.models import HTMLField
 from django.utils import timezone
 from wearesocial import settings
 
+
 class Subject(models.Model):
     name = models.CharField(max_length=254)
     description = HTMLField()

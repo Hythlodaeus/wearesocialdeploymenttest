@@ -47,6 +47,7 @@ INSTALLED_APPS = (
     'tinymce',
     'emoticons',
     'debug_toolbar',
+    'arrow',
 
 )
 
