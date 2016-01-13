@@ -14,3 +14,4 @@ mysql-python
 django-debug-toolbar==1.4
 django-emoticons==1.1.2
 django-tinymce==2.2.0
+arrow==0.7.0
